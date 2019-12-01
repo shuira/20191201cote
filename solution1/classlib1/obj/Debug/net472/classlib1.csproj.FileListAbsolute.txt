@@ -1,0 +1,7 @@
+C:\20191201core\solution1\classlib1\obj\Debug\net472\classlib1.csprojAssemblyReference.cache
+C:\20191201core\solution1\classlib1\obj\Debug\net472\classlib1.AssemblyInfoInputs.cache
+C:\20191201core\solution1\classlib1\obj\Debug\net472\classlib1.AssemblyInfo.cs
+C:\20191201core\solution1\classlib1\bin\Debug\net472\classlib1.dll
+C:\20191201core\solution1\classlib1\bin\Debug\net472\classlib1.pdb
+C:\20191201core\solution1\classlib1\obj\Debug\net472\classlib1.dll
+C:\20191201core\solution1\classlib1\obj\Debug\net472\classlib1.pdb
